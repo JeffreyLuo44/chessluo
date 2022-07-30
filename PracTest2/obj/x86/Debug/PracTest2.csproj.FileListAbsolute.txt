@@ -1,0 +1,61 @@
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\bin\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\bin\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\obj\x86\Debug\PracTest2.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\obj\x86\Debug\PracTest2.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\obj\x86\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\PracTest2\PracTest2\obj\x86\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\obj\x86\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\obj\x86\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\bin\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\bin\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\obj\x86\Debug\PracTest2.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\obj\x86\Debug\PracTest2.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Appointments\PracTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess\PracTest2\obj\x86\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess\PracTest2\obj\x86\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\bin\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\bin\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\PracTest2.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\PracTest2.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+\\oslo.cms.waikato.ac.nz\home\nkanji\Desktop\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\PracTest2.exe
+\\oslo.cms.waikato.ac.nz\home\nkanji\Desktop\103-PracTest2-Chess-2013\PracTest2\obj\x86\Debug\PracTest2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\bin\Debug\PracTest2.exe
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\bin\Debug\PracTest2.pdb
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\obj\x86\Debug\PracTest2.csprojAssemblyReference.cache
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\obj\x86\Debug\PracTest2.Form1.resources
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\obj\x86\Debug\PracTest2.Properties.Resources.resources
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\obj\x86\Debug\PracTest2.csproj.GenerateResource.cache
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\obj\x86\Debug\PracTest2.exe
+C:\Users\Jeffrey Luo\Documents\2020\COMPX101 - Programs\Weekly Practicals\Week 7\Week7-Ex1\PracTest2\obj\x86\Debug\PracTest2.pdb
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\bin\Debug\PracTest2.exe
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\bin\Debug\PracTest2.pdb
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\obj\x86\Debug\PracTest2.csprojAssemblyReference.cache
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\obj\x86\Debug\PracTest2.Form1.resources
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\obj\x86\Debug\PracTest2.Properties.Resources.resources
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\obj\x86\Debug\PracTest2.csproj.GenerateResource.cache
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\obj\x86\Debug\PracTest2.exe
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\obj\x86\Debug\PracTest2.pdb
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\bin\Debug\System.ValueTuple.dll
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\bin\Debug\System.ValueTuple.xml
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game\PracTest2\obj\x86\Debug\PracTest2.csproj.CopyComplete
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\bin\Debug\PracTest2.exe
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\bin\Debug\PracTest2.pdb
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\bin\Debug\System.ValueTuple.dll
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\bin\Debug\System.ValueTuple.xml
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\obj\x86\Debug\PracTest2.csprojAssemblyReference.cache
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\obj\x86\Debug\PracTest2.Form1.resources
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\obj\x86\Debug\PracTest2.Properties.Resources.resources
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\obj\x86\Debug\PracTest2.csproj.GenerateResource.cache
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\obj\x86\Debug\PracTest2.csproj.CopyComplete
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\obj\x86\Debug\PracTest2.exe
+C:\Users\Jeffrey Luo\Documents\2021\2021 Programs\Reviewing C#\Chess Game V2\PracTest2\obj\x86\Debug\PracTest2.pdb
